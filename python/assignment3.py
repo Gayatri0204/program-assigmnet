@@ -1,6 +1,6 @@
 # 1.WAP  to check type of data accepted using input() function.
 
-Name ='gayu'
+Name ='gayatri'
 print(type(Name))
 number = input("enter the value")
 print(f"type of values is {type(number)}")
